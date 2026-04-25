@@ -1,0 +1,33 @@
+body { 
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+    background: #f4f4f4;
+}
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    display: inline-block;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+input {
+    padding: 10px;
+    width: 250px;
+    margin-bottom: 10px;
+}
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+    background: #0078d4;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+.output {
+    margin-top: 30px;
+}
+canvas, #qrcode {
+    margin: 20px auto;
+    
+}
